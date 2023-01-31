@@ -2,10 +2,9 @@
 <h2><b>🎓 📜Certifications:</b></h2>
 
 - [Cisco Certified Network Associate](https://imgur.com/a/lBV2wTI)
-- [CompTIA Security+](https://imgur.com/a/lBV2wTI)
-- [CompTIA Network+](https://imgur.com/a/lBV2wTI)
-- [Linux Professional LPIC-1](https://imgur.com/a/lBV2wTI)
-<h2>👨‍💻 Cyber Security Projects:</h2>(https://imgur.com/a/lBV2wTI)
+- [Cybersecurity Consulting Virtual Case Experience](https://imgur.com/a/VW7DweY)
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Microsoft Azure Security (AlgoExpert)</b>
   - [Azure Sentinel (SIEM)](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -16,13 +15,12 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>C#Bug Bounty</b>
+  - [SQL Injection](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Network Penetration Testing](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Catputre The Flag (CTFs)](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -36,7 +34,7 @@
 [linkedin]: https://www.linkedin.com/in/awande-shezi-31a236211/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
