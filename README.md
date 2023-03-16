@@ -3,6 +3,8 @@
 
 - [Cisco Certified Network Associate](https://imgur.com/a/lBV2wTI)
 - [Cybersecurity Consulting Virtual Case Experience](https://imgur.com/a/VW7DweY)
+- [Certified in Cyber security ((ISC)²)](https://imgur.com/a/VW7DweY)
+
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
